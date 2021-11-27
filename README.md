@@ -1,4 +1,4 @@
-# Dockeized Node.Js + Express.JS Web Application
+# Dockerized Node.Js + Express.JS Web Application
 This is a simple node.js + express.js web app that is dockerized and can be run as a docker container. Follow the below steps to run this application as a docker container.
 ## Prerequisites
 Please ensure that docker is installed into your system.
